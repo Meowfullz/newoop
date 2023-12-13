@@ -21,7 +21,7 @@ class statistician:
 		Args:
 			number (float): specified number
 
-Raises:
+		Raises:
 			ValueError: indicates specified number is not a float
 
 		""" 
